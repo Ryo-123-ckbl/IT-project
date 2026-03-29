@@ -49,10 +49,21 @@ nav ul li a {
     justify-content: center;
     align-items: center;
 }
+.Homehighlight {
+  color: rgb(26, 57, 236);
+}
+a[href="pr.html"]:hover {
+  color: rgb(26, 57, 236);
+}
 a[href="Home.html"]:hover {
   color: rgb(26, 57, 236);
 }
-
+a[href="Post.html"]:hover {
+  color: rgb(26, 57, 236);
+}
+a[href="Profile.html"]:hover {
+  color: rgb(26, 57, 236);
+}
 
 
 
